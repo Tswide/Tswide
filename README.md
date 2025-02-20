@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **a new methodologie's work and clean code**
 
-- 👨‍💻 All of my projects are available at [https://jcbs-portfolio.vercel.app/](https://jcbs-portfolio.vercel.app/)
-
 - 📫 How to reach me **julienjcbs@outlook.fr**
 
 - ⚡ Fun fact **I think I'm funny**
